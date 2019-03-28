@@ -1,2 +1,2 @@
 # buildlab
-Packer/Vagrant lab environment representitive of common enterprises
+Packer/Vagrant lab environment representative of common enterprises
